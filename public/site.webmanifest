@@ -1,0 +1,13 @@
+{
+  "name": "Divya Shakti Portfolio",
+  "short_name": "Divya Shakti",
+  "description": "Portfolio of Divya Shakti — MERN developer, Agentic AI builder and tech YouTuber.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07060b",
+  "theme_color": "#07060b",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
